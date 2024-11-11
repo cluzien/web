@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS my_website_db;
-USE my_website_db;
+CREATE DATABASE IF NOT EXISTS web;
+USE web;
 
 -- Tabel Users
 CREATE TABLE IF NOT EXISTS users (
